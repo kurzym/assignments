@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T20:20:04.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6QCI7hglYhtKW2F06XIL" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T20:21:25.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mIogl3DewKjXag0kGmPH" version="14.0.4" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1483" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,11 @@
             <Array as="points">
               <mxPoint x="800" y="220" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tGatQQ7SZBfaw6yrUqw-56" value="wysyłka dok." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0tGatQQ7SZBfaw6yrUqw-25">
+          <mxGeometry x="0.8249" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0tGatQQ7SZBfaw6yrUqw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="0tGatQQ7SZBfaw6yrUqw-7" target="0tGatQQ7SZBfaw6yrUqw-26">
@@ -112,6 +117,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0tGatQQ7SZBfaw6yrUqw-57" value="wykonanie przelewu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0tGatQQ7SZBfaw6yrUqw-28">
+          <mxGeometry x="-0.6593" y="-4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0tGatQQ7SZBfaw6yrUqw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="0tGatQQ7SZBfaw6yrUqw-48" target="0tGatQQ7SZBfaw6yrUqw-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -125,6 +135,11 @@
         <mxCell id="0tGatQQ7SZBfaw6yrUqw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="0tGatQQ7SZBfaw6yrUqw-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tGatQQ7SZBfaw6yrUqw-58" value="rozliczenie delegacji" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0tGatQQ7SZBfaw6yrUqw-49">
+          <mxGeometry x="-0.2052" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
